@@ -1,0 +1,10 @@
+F:\visual projekty\DESKTOP\notatnik\notatnik\bin\Release\notatnik.exe.config
+F:\visual projekty\DESKTOP\notatnik\notatnik\bin\Release\notatnik.exe
+F:\visual projekty\DESKTOP\notatnik\notatnik\bin\Release\notatnik.pdb
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.csprojAssemblyReference.cache
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.Form1.resources
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.Properties.Resources.resources
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.csproj.GenerateResource.cache
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.csproj.CoreCompileInputs.cache
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.exe
+F:\visual projekty\DESKTOP\notatnik\notatnik\obj\Release\notatnik.pdb

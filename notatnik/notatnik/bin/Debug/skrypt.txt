@@ -1,0 +1,39 @@
+int column;
+            int kol;
+
+            string text = textBox1.Text;
+            
+            column = textBox1.SelectionStart + 1;
+
+            if (Convert.ToString(e.KeyCode) == "Return")
+            {
+                liczby.checkcolumn = column - 1;
+                liczby.row++;
+            }
+            kol = (column - liczby.checkcolumn);
+
+            if (kol <= 0)
+            {
+                liczby.row--;
+                int count = 0;
+                liczby.checkcolumn = 0;
+                foreach (char c in text)
+                {
+                    if (c != Convert.ToChar("\n"))
+                    {
+                        count++;
+                    }
+                    else
+                    {
+                        liczby.checkcolumn += count+1;
+                        count = 0;
+                    }
+                    kol = (column - liczby.checkcolumn);
+                }
+            }
+            
+            toolStripStatusLabel1.Text = "Kolumna : " + Convert.ToString(kol);
+            toolStripStatusLabel2.Text = "Rząd : " + Convert.ToString(liczby.row);
+            toolStripStatusLabel3.Text = "checkcolumn:" + Convert.ToString(liczby.checkcolumn);
+            toolStripStatusLabel4.Text = "pozycja Karetki:" + Convert.ToString(textBox1.SelectionStart + 1);
+        }

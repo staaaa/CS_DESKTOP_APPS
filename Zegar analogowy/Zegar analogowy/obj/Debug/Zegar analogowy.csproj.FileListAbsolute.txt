@@ -1,0 +1,10 @@
+F:\visual projekty\Zegar analogowy\Zegar analogowy\bin\Debug\Zegar analogowy.exe.config
+F:\visual projekty\Zegar analogowy\Zegar analogowy\bin\Debug\Zegar analogowy.exe
+F:\visual projekty\Zegar analogowy\Zegar analogowy\bin\Debug\Zegar analogowy.pdb
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar analogowy.csprojAssemblyReference.cache
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar_analogowy.Form1.resources
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar_analogowy.Properties.Resources.resources
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar analogowy.csproj.GenerateResource.cache
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar analogowy.csproj.CoreCompileInputs.cache
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar analogowy.exe
+F:\visual projekty\Zegar analogowy\Zegar analogowy\obj\Debug\Zegar analogowy.pdb
